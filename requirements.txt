@@ -1,5 +1,2 @@
+streamlit==1.28.0
 flask==2.3.2
-TTS==0.21.0
-torch==2.0.1
-torchaudio==2.0.2
-Werkzeug==2.3.7
